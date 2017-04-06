@@ -1,5 +1,0 @@
-<script type='text/javascript'>
-function redi(perek) {
-   perek= window.location.replace("https://accessforyou.github.io/withme1/");
- }
-</script>
